@@ -16,9 +16,9 @@ I am currently working on my [Google Data Analytics Professional Certificate](ht
 - Designed and implemented a monthly data insights report, which informed Product and Support teams' strategic decisions. The data was used to prioritize high impact customer pain points and identify new customer issues earlier, saving the company >$500,000 annually through early issue resolution, improved customer experience and improved content accuracy.
 
 **Program Manager/SharePoint Developer, Microsoft Corp. Redmond, WA** 2018
-•	Developed a system to create support cases for the Bing Ads Support team that supports the internal sales team. Forms were developed to collect all required information when the case is opened, decreasing time to resolution. Originally designed as a SharePoint only solution, the forms were later created using Compass, an internal Microsoft tool.
-•	Created team SharePoint site that provides easy access to the case creation forms and other resources provided by the team. 
-•	Developed a SharePoint list that contains Bing Ads coupons codes that does not display the code until a support case number is entered.
+- Developed a system to create support cases for the Bing Ads Support team that supports the internal sales team. Forms were developed to collect all required information when the case is opened, decreasing time to resolution. Originally designed as a SharePoint only solution, the forms were later created using Compass, an internal Microsoft tool.
+- Created team SharePoint site that provides easy access to the case creation forms and other resources provided by the team. 
+- Developed a SharePoint list that contains Bing Ads coupons codes that does not display the code until a support case number is entered.
 This was a contract position through Populus Group.
 
 **Support Planner/Project Manager, Microsoft Corp. Redmond, WA** 2016 – 2017
