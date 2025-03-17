@@ -1,6 +1,6 @@
 I am currently working on my [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) Capstone Project to build on the extensive Data Analytics experience from my last job at GoDaddy and hopefully make Data a bigger part of my career going forward. This page is part of the portfolio I'm putting together as a part of the Capstone Project. This will give me a way to show what I'm able to do with Data since everything I did at GoDaddy is behind their firewall.  
 
-**[LinkedIn](https://www.linkedin.com/in/enordstr/)**
+**[LinkedIn Profile](https://www.linkedin.com/in/enordstr/)**
 
 ## Work Experience
 
