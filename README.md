@@ -2,15 +2,15 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 **[LinkedIn Profile](https://www.linkedin.com/in/enordstr/)**
 
-### **What I could bring to my next career opportunity**
+### **What I would bring to my next career opportunity**
 
 
 ### **🔹 Business Growth & Strategy**
 
 
 
-* **Turn insights into revenue. \
-** I’ve used behavioral data to remove purchase barriers—helping increase monthly revenue by 10X. \
+* Turn insights into revenue. \
+** I’ve used behavioral data to remove purchase barriers—helping increase monthly revenue by 10X. 
 
 * **Save money through smarter processes. \
 ** By identifying issues earlier and aligning support priorities, I’ve helped save over $500K annually. \
