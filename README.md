@@ -9,13 +9,13 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 
 
-* **Turn insights into revenue.** \
+* **Turn insights into revenue** \
   I’ve used behavioral data to remove purchase barriers that helped increase monthly revenue by 10X. 
 
-* **Save money through smarter processes.** \
+* **Save money through smarter processes** \
   By identifying issues earlier and aligning support priorities, I’ve helped save over $500K annually. 
 
-* **Translate goals into action.** \
+* **Translate goals into action** \
   I connect strategy to execution, aligning Product, Support, and Engineering to build solutions that work. 
 
 
@@ -27,11 +27,11 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 
 
-* **Lead high-performing teams that deliver results. \
-** I’ve managed global writing teams, consistently driving year-over-year content performance and earning 96%+ leadership satisfaction scores. \
+* **Lead high-performing teams that deliver results** \
+  I’ve managed global writing teams, consistently driving year-over-year content performance and earning 96%+ leadership satisfaction scores. 
 
-* **Create a culture of data-informed excellence. \
-** I foster environments where analytics fuel improvement, from individual performance to team-wide strategy. \
+* **Create a culture of data-informed excellence** \
+  I foster environments where analytics fuel improvement, from individual performance to team-wide strategy. 
 
 
 
@@ -42,11 +42,11 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 
 
-* **Drive innovation with emerging tools. \
-** I’ve led efforts evaluating AI launches and adopted cutting-edge tools like FullStory and Tableau to optimize digital experience. \
+* **Drive innovation with emerging tools** \
+  I’ve led efforts evaluating AI launches and adopted cutting-edge tools like FullStory and Tableau to optimize digital experience. 
 
-* **Adapt fast and execute faster. \
-** From Microsoft to startups, I’ve delivered results in ever-changing environments across tech stacks and org sizes.
+* **Adapt fast and execute faster** \
+  From Microsoft to startups, I’ve delivered results in ever-changing environments across tech stacks and org sizes.
 
 
 ---
@@ -56,11 +56,11 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 
 
-* **Make complexity feel simple. \
-** Whether for tech pros or non-technical users, I turn complex systems into clear, usable content. \
+* **Make complexity feel simple** \
+  Whether for tech pros or non-technical users, I turn complex systems into clear, usable content. 
 
-* **Put the customer at the center. \
-** I identify user pain points early, then improve their journey with precise, data-backed updates. \
+* **Put the customer at the center** \
+  I identify user pain points early, then improve their journey with precise, data-backed updates. 
 
 
 
