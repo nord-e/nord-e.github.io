@@ -1,11 +1,11 @@
-This page is part of a portfolio I'm building for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) Capstone Project. I hope to make Data work a bigger part of my career going forward.
+This page is part of a portfolio I'm building for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) Capstone Project. The goal is to show what I can do with AI and Data, and make both a bigger part of my career going forward.
 
 **[LinkedIn Profile](https://www.linkedin.com/in/enordstr/)**
 
 ### **What I would bring to my next career opportunity**
 
 
-### **🔹 Business Growth & Strategy**
+### **Business Growth & Strategy**
 
 
 
@@ -23,7 +23,7 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 ---
 
 
-### **🔹 Leadership & Team Impact**
+### **Leadership & Team Impact**
 
 
 
@@ -38,7 +38,7 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 ---
 
 
-### **🔹 Innovation & Technical Expertise**
+### **Innovation & Technical Expertise**
 
 
 
@@ -52,7 +52,7 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 ---
 
 
-### **🔹 Customer Experience & Communication**
+### **Customer Experience & Communication**
 
 
 
