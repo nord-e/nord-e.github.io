@@ -1,4 +1,4 @@
-This page is part of a portfolio I'm building for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) Capstone Project. The goal is to show what I can do with AI and Data, and make both a bigger part of my career going forward.
+This page is part of a portfolio I'm building for my [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) Capstone Project. The goal is to show what I can do with AI and Data, and make both a bigger part of my career going forward.
 
 **[LinkedIn Profile](https://www.linkedin.com/in/enordstr/)**
 
