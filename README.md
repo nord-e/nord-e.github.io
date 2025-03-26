@@ -28,7 +28,8 @@ This page is part of a portfolio I'm building for my [Google Data Analytics Prof
 
 
 * **Lead high-performing teams that deliver results** \
-  I’ve managed global writing teams, consistently driving year-over-year content performance and earning 96%+ leadership satisfaction scores. 
+  I’ve managed global writing teams, consistently driving year-over-year content performance and earning a Glint Manager Effectiveness score 
+  of 96. 
 
 * **Create a culture of data-informed excellence** \
   I foster environments where analytics fuel improvement, from individual performance to team-wide strategy. 
