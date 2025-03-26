@@ -2,7 +2,7 @@ This page is part of a portfolio I'm building for my [Google Data Analytics Prof
 
 **[LinkedIn Profile](https://www.linkedin.com/in/enordstr/)**
 
-### **What I would bring to my next career opportunity**
+## **What I would bring to my next career opportunity**
 
 
 ### **Business Growth & Strategy**
