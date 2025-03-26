@@ -9,14 +9,14 @@ This page is part of a portfolio I'm building for the [Google Data Analytics Pro
 
 
 
-* Turn insights into revenue. \
-** I’ve used behavioral data to remove purchase barriers—helping increase monthly revenue by 10X. 
+* **Turn insights into revenue.** \
+  I’ve used behavioral data to remove purchase barriers that helped increase monthly revenue by 10X. 
 
-* **Save money through smarter processes. \
-** By identifying issues earlier and aligning support priorities, I’ve helped save over $500K annually. \
+* **Save money through smarter processes.** \
+  By identifying issues earlier and aligning support priorities, I’ve helped save over $500K annually. 
 
-* **Translate goals into action. \
-** I connect strategy to execution, aligning Product, Support, and Engineering to build solutions that work. \
+* **Translate goals into action.** \
+  I connect strategy to execution, aligning Product, Support, and Engineering to build solutions that work. 
 
 
 
